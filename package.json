@@ -1,0 +1,13 @@
+{
+  "name": "aliasbot",
+  "version": "1.0.0",
+  "description": "Bot that can do other bot commands",
+  "main": "app.js",
+  "author": "Avinash",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.6"
+  }
+}
